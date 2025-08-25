@@ -1,0 +1,10 @@
+.vs/
+YurtOtomasyon.DataAccess/bin
+YurtOtomasyon.DataAccess/obj
+YurtOtomasyon.DataAccess/appsettings.json
+
+YurtOtomasyon.Business/bin
+YurtOtomasyon.Business/obj
+
+YurtOtomasyon.UI.Winforms/bin
+YurtOtomasyon.UI.Winforms/obj
